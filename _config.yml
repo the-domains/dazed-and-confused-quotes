@@ -1,7 +1,7 @@
 name: 'Dazed & Confused Quotes'
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.92041
+typography_spectrum: 0.55466
 cta:
   domain: null
   bucket: null
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: null
+  brandColors:
+    - '#556273'
+    - '#090909'
+    - '#979797'
+    - '#262827'
+    - '#ffc07b'
   brandStrength: 0.125
   lightness: 0.875
   saturation: 0.1875
